@@ -13,7 +13,7 @@ function App() {
       <h1>Welcome</h1>
       <Header></Header>
       <Products></Products>
-      <button onClick={()=>{clicked(" jayraj") }} >hello</button>
+      <button onClick={()=>{clicked(" jayraj") }} >click me</button>
 
     </div>
   );

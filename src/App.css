@@ -38,13 +38,23 @@
 }
 
 
+.header{
+  background-color: bisque;
+  padding: 5vw 0vw;
+}
 
+.productes{
+  width: 100vw;
+  display: flex;
+}
 
 .product{
   background-color: rgba(92, 255, 80, 0.785);
-  margin: 5vw;
+  margin: 3vw;
+  
+  width: fit-content;
   padding: .4vw 0vw .4vw 0vw;
 }
 .product img{
-  width:200px;
+  width:150px;
 }
